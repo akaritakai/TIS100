@@ -9,5 +9,6 @@ These solutions represent the best solutions I have come up with so far for each
 | Differential Converter | 133 | 133 |
 | Signal Comparator | 265 | 197 |
 | Signal Multiplexer | 182 | 151 |
+| Sequence Generator | 86 | 86 |
 | Signal Pattern Detector | 175 | 82 |
 | Submaximum Selector | 430 | 430 |
