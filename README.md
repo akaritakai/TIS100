@@ -7,5 +7,6 @@ These solutions represent the best solutions I have come up with so far for each
 | Signal Amplifier | 84 |
 | Differential Converter | 133 |
 | Signal Comparator | 265 |
+| Signal Multiplexer | 182 |
 | Signal Pattern Detector | 175 |
 | Submaximum Selector | 430 |
