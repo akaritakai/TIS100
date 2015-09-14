@@ -2,7 +2,7 @@
 
 These solutions represent the best solutions I have come up with so far for each of the problems. I'm always looking to optimize them a little more, especially since the world records are so public and well-recorded.
 
-| Problem | Cycle Count | World Records |
+| Problem | Cycle Count | World Record |
 | ------- | ----------- | ------------- |
 | Self-Test Diagnostic | 83 | 83 |
 | Signal Amplifier | 84 | 84 |
