@@ -10,5 +10,6 @@ These solutions represent the best solutions I have come up with so far for each
 | Signal Comparator | 232 | 197 |
 | Signal Multiplexer | 182 | 151 |
 | Sequence Generator | 86 | 86 |
+| Sequence Counter | 202 | 120 |
 | Signal Pattern Detector | 175 | 82 |
 | Submaximum Selector | 430 | 430 |
